@@ -45,4 +45,8 @@ print(float(10))
 print(int(3.14))
 print(float("3.14"))
 print(int("123"))
+
+
+print(int(float("3.14")))
+print(str(10))
 # print(int("3.14")) # Error !!
